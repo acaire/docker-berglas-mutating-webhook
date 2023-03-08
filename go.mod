@@ -3,7 +3,7 @@ module github.com/GoogleCloudPlatform/berglas/examples/kubernetes
 go 1.19
 
 require (
-	github.com/GoogleCloudPlatform/berglas v0.6.3-0.20220815133802-c03010519fac
+	github.com/GoogleCloudPlatform/berglas v0.7.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/slok/kubewebhook/v2 v2.3.0
 	k8s.io/api v0.24.3
