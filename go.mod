@@ -6,8 +6,8 @@ require (
 	github.com/GoogleCloudPlatform/berglas v1.0.2
 	github.com/sirupsen/logrus v1.9.0
 	github.com/slok/kubewebhook/v2 v2.5.0
-	k8s.io/api v0.27.0
-	k8s.io/apimachinery v0.27.0
+	k8s.io/api v0.27.1
+	k8s.io/apimachinery v0.27.1
 )
 
 require (
